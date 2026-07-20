@@ -6,7 +6,7 @@
 - 出力ファイル名は`why-people-want-to-be-famous-so-much.md`のようにケバブケースで書いてください。
 - 出力ファイルの記述方法は、まず頭に以下のように一般的なブログのメタヘッダーとしてあとで適応できるように適切に情報を入れてください。
 ```
-----
+---
 title: "Why people want to be famous so much"
 description: "なぜ人々はインフルエンサーに憧れるのだろうか"
 pubDate: "2026-07-20"

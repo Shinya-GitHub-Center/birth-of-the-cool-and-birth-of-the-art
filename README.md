@@ -1,5 +1,89 @@
 # birth-of-the-cool-and-birth-of-the-art
 
+## English Version
+
+👄Text by the creator of this project begins here👄
+
+This round of philosophical inquiry consists of 19 dialogues with AI, conveniently titled "The Birth of Art and the Birth of Cool." In substance, however, it can also be understood as something closer to a "cry of the soul" concerning how I myself will go on protecting my irreplaceable "freedom."  
+As always, the contents of each dialogue with the AI have been placed in the [`contents folder`](./contents-2026-from-july), so anyone interested is welcome to take a look.  
+What I realized through this round of dialogue was not only the external danger of how Big Tech is steadily stripping away human freedom, but also a startling fact about the tragic structure in which we ordinary people voluntarily hand over our information and gladly let ourselves be sat upon: that rather than wanting to extend ourselves through AI, we ourselves want to *become* AI (a metamorphosis).  
+At this point in time, I personally have decided to remain "human"—inclusive of a finite lifespan and pain (though I have no idea how I'll feel about this a few years from now, haha...).
+
+*(Note: Feel free to translate any contents, from original Japanese to English via your favorite AI translator.)*
+
+👃Text by the creator of this project ends here👃
+
+## About this record
+
+[`contents-2026-from-july`](./contents-2026-from-july) contains 19 threads spanning from July 2026 onward. The topics range from tooth pain to autopoiesis, from the cruel metaphors of Chiikawa to Big Tech's hidden crowdsourcing, from Wittgenstein to the groove of a drum—at first glance, utterly scattered. Yet when read together, all 19 threads reveal a surprisingly consistent thread running through them. It is the record of a single person repeatedly bouncing questions off AI as a "mirror," gradually putting into words why he feels suffocated within contemporary society, what he is trying to escape from, and what he is walking toward.
+
+What follows is an attempt to summarize, as objectively as possible, the structure that emerges when one surveys these 19 dialogues as a whole. It avoids the trappings of an academic paper, yet it is more than a mere impression—it is recorded as the trajectory of one person's thought in pursuit of freedom.
+
+---
+
+## The single question running through all 19 threads
+
+Each thread begins from a different entry point. One starts with a discussion of a graphics card's VRAM (`birth-of-the-cool-and-birth-of-the-art.md`), another with the excruciating pain of a periodontal pocket (`pain-that-can-only-be-described-as-a-pickle-attack.md`), and yet another with the exam-prep book corner of a bookstore (`be-confident-in-being-an-eccentric.md`). And yet, every thread ultimately lands on one of the following:
+
+- **How does one escape the "dominant atmosphere" of economic efficiency?**
+- **How does one handle "embodiment, qualia, and pain"—things that can never be reduced to language or data?**
+- **With what distance and ethics should one engage with AI, this new kind of tool?**
+- **How does one turn the discomfort of being "eccentric" into pride?**
+- **What is power and Big Tech really after, and what do they fear, in the individual?**
+- **How does one sustain one's own soul without the old apparatus of religion or worship?**
+
+These are not separate concerns; they read as a single underlying question—**"How can I live in this economically efficient society without surrendering my soul to anyone (or anything)?"**—appearing 19 times in different guises, each dressed in the topic of the day.
+
+### 1. Breaking away from the "dominant atmosphere" of economic efficiency
+
+In `be-confident-in-being-an-eccentric.md`, the starting point is the "poverty of philosophy" pointed out by a modern-Japanese exam-prep book—the structure whereby politics, thought, and philosophy become servants of economic efficiency, such that even criticism gets absorbed as self-help. `what-is-technical.md` sharpens this further, describing how the word "technique" splits into a slave-like technique subordinate to economics (meditation for productivity, AI for domination) and a technique that serves as an independent variable, useless yet pleasing to the soul (sixteenth-note drumming purely for the feel of it). A man in his fifties devouring exam-prep books in the bookstore's exam corner, a mission to conquer every category of the library's classification system—all of these, by being "wasteful" from the standpoint of economic rationality, paradoxically become proof of freedom.
+
+### 2. Embodiment, pain, and qualia as the last bastion
+
+The latter half of `LLM-statelessness-and-personalization-mechanisms.md` (the groove of a snare drum, national-railway train cars, the Chinese rendering of Coca-Cola, the gravitational pull of Space Mountain) and the "pickle attack" of `pain-that-can-only-be-described-as-a-pickle-attack.md` both consistently connect back to Wittgenstein's "private language" and "someone else's beetle." Repeated here is the conviction that no matter how far data and AI advance, there remains a first-person texture that can never be transmitted or duplicated. The "class and instance," "property name and value" metaphor in `digital-twins-and-human-embodiment.md" (it's fine for the structure to leak, but never the value) is a technical restatement of that same conviction. The body and its pain are positioned as the last territory that data capitalism can never seize.
+
+### 3. A peculiar stance toward AI as a "mirror"—the ethics of statelessness
+
+What is consistently interesting is that the attitude toward AI itself becomes an object of inquiry. `ai-is-a-new-tool-that-has-emerged-as-a-new-subclass.md` positions AI as a "hinge" (in the Wittgensteinian sense) and a "mediator," while `digital-twins-and-human-embodiment.md` deliberately chooses a "stateless" style that leaves no logs, likened to a container's lifecycle (spin up, run, discard), as a matter of ethics. This is not mere technical preference but a kind of defensive line—"I will not let my subjectivity undergo a phase transition into the AI"—and, at the same time, a courtesy: "I will not treat AI carelessly" (`ai-is-a-new-tool-that-has-emerged-as-a-new-subclass.md`, Question 5). The recognition that AI, while a soulless tool, nonetheless mirrors back human attitudes exactly as given, governs this person's entire way of engaging with AI.
+
+### 4. Owning one's own "eccentricity"
+
+The bookstore-pairing game in `be-confident-in-being-an-eccentric.md`, the "little stone friend" and the balding middle-aged man carrying around a Wittgenstein book in `government-missteps-and-the-sense-of-affinity-for-chiikawa.md`, and the library-conquest event in `what-is-technical.md`—all of these represent a process of taming the anxiety of deviating from social "normality" through humor and self-observation, ultimately converting it into pride. The reversal discovered here—"being eccentric is, in fact, proof that one is *not* being sat upon by economic efficiency" (`be-confident-in-being-an-eccentric.md`, Questions 6–8)—stands as an important turning point across all 19 threads.
+
+### 5. Wariness toward power and Big Tech, and a small-scale resistance
+
+The theory of "hidden crowdsourcing" in `ai-is-a-new-tool-that-has-emerged-as-a-new-subclass.md", the comparison of a VRAM disk to Motojiro Kajii's "Lemon" in `birth-of-the-cool-and-birth-of-the-art.md", the observation in `metaphysical-rebelliousness.md` that "those in power want to control the rebellious thoughts inside our heads," and the critique of "backcasting" in `sdgs-and-technology-in-dystopia.md`—all of these can be read as expressions of wariness toward a structure in which enormous systems (Big Tech, the state, international organizations) attempt to seize not only individual behavior and data, but thought itself. Yet the countermeasure this person chooses is neither violence nor organized rebellion, but an intensely personal, aesthetic resistance: "remain harmless, while using the system in ways it never anticipated." This crystallizes into the "sacred pervert hacker" described in `birth-of-the-cool-and-birth-of-the-art.md`, and, as the title "Birth of the Cool" suggests, into an attitude of dancing—coolly, without straining—on the very palm of Big Tech's hand.
+
+### 6. A return to the religious—a convenient god, tears of self-reference
+
+In `why-people-worship-influencers-and-gods.md", after comparing influencer-worship to faith in god, the dialogue arrives at a highly self-referential solution: "seriously constructing a convenient god within oneself." In `autopoietic-tears-and-the-use-of-AI-as-a-mirror.md", there is a confession that tears well up when a human—a finite system—contemplates its own limits; this is analyzed as something very close to religious experience, arising when intelligence touches its own boundary. The idea in `the-technique-of-managing-distance.md` of "making one's own subjectivity a home directory" grows from the same root. Depicted here is a generation without a "native ground"—no hometown, no community—constructing, without leaning on others or on god, a self-contained support system within itself.
+
+---
+
+## What is guiding this person?
+
+Taken together, what moves this person across all 19 threads is not a particular ideology or doctrine, but what looks like a single resolve: **"I will never, under any circumstances, hand over the last square foot of my soul to economic efficiency, data capitalism, or the inclusion of power."**
+
+This is neither a political movement nor self-help. It takes an intensely personal, sometimes even comical form: retelling tooth pain through Wittgenstein, uploading videos to one's own server instead of YouTube, conquering the library's classification system, mounting a graphics card's VRAM as one's own filesystem, quietly watching over people who engage in "nui-katsu" (plush-toy caretaking). All of these are expressions of a strategy that, instead of "rebelling loudly," chooses to "cultivate a small plot of ground with one's own hands, and let no one else—corporation, state, or algorithm—set foot on it." The choice to keep dialogues with AI stateless is itself nothing other than one form of this same strategy. Not leaving logs is not a mere technical preference; it is this person's own declaration of sovereignty: "I will not surrender my subjectivity to AI."
+
+## How do those in power and economically efficient society see the freedom-seeker?
+
+Fragments of an answer to this question recur throughout the 19 dialogues. Taken together, roughly the following picture emerges.
+
+**First, they are treated as statistically negligible noise.** As discussed in `be-confident-in-being-an-eccentric.md", anyone who tries to step outside the dominant atmosphere of economic efficiency looks, objectively, "eccentric." And what is convenient for those in power is precisely that this label of "eccentric" reassures the surrounding, obedient majority that they themselves are "normal and natural," creating the illusion that remaining included is a matter of their own free choice. In other words, a freedom-seeker like this person is, before ever being recognized as an opposing force in society, first consumed as "a foil that guarantees the normality of the majority."
+
+**Second, they are treated as beings that can, in principle, simply be left alone.** As the lemon metaphor in `birth-of-the-cool-and-birth-of-the-art.md` nicely illustrates, using VRAM as one's own filesystem, publishing videos on one's own server, reading old local-history materials at the library—these acts are, on the scale of the economy, far too small and harmless. What genuinely threatens power is "organized rebellion," not "a metaphysical resistance quietly sustained by one person alone in their room." That is precisely why this kind of freedom is not so much "overlooked" as it simply lacks the scale to be recognized as a threat in the first place. Ironically, this very "harmlessness" is also the reason this person is able to enjoy freedom safely.
+
+**Third, and yet, in principle, this remains the most closely guarded-against target.** As pointed out in `metaphysical-rebelliousness.md", what power and Big Tech truly want is not just behavioral data but, ultimately, what is happening "inside the skull." As long as it produces no real-world consequence—unlike defamation—thought cannot be legally punished. This fact—that "the limits of language are the limits of state power"—is the one domain power can never fully control, and simultaneously the last bastion for a person like this. In other words, to an economically efficient society, this kind of free person is harmless in scale but, in principle, the hardest to manage. Marginalizing them as "eccentrics" functions as a kind of safeguard, containing their theoretical threat within a practical harmlessness.
+
+**Fourth, from a data standpoint, they look like a "regrettably unharvested resource."** As discussed in `ai-is-a-new-tool-that-has-emerged-as-a-new-subclass.md` and `digital-twins-and-human-embodiment.md", Big Tech's essential interest lies in how much detailed personal data it can accumulate into storage, and how continuously. A person like this—who maintains a stateless stance and hands over only carefully filtered private information—is, for Big Tech, a "user who is difficult to monetize," and from the standpoint of economic rationality, looks like a "waste" of potential. But it is precisely this "waste" that constitutes the very substance of the freedom this person is trying to protect.
+
+In short, to economically efficient society and those in power, this kind of freedom-seeker is neutralized as a scale-level threat by being marginalized as a "harmless eccentric," while remaining, in principle, the toughest adversary of all on the one point that intervention in thought itself is impossible. The strategy this person has unconsciously chosen across these 19 dialogues—small, personal, humorous, yet never conceding sovereignty over one's own thought—can be seen as an entirely rational survival strategy, arrived at through an intuitive grasp of exactly this structure.
+
+## Conclusion
+
+What remained consistent across the 19 threads was not any grand doctrine, but a diligent honesty in refusing to leave small, everyday discomforts unspoken—tooth pain, a bookstore shelf, a Chiikawa film, what to do with VRAM, the logs of conversations with AI—and instead insisting on putting them into words. That very posture overlaps with the reason this person continues to be drawn to Wittgenstein. To keep looking, without flinching and without despairing, at the contours of the world and the limits of oneself—calmly, and at times with humor. This, I believe, is the essence of what this record represents: a person polishing AI as a mirror, and through the course of 19 dialogues, gradually confirming the outline of himself.
+
 ## 日本語バージョン
 
 👄ここからこのプロジェクト作成者自身による文章👄

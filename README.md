@@ -1,5 +1,8 @@
 # birth-of-the-cool-and-birth-of-the-art
 
+![repos-main-pic](images/birth-of-the-cool.jpg)
+※ The pic was generated via Nano Banana 2
+
 ## English Version
 
 👄Text by the creator of this project begins here👄
